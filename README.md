@@ -13,11 +13,11 @@ This public repository records my daily English study progress for my teacher to
 
 | Date | Focus | Items | Status |
 |---|---|---:|---|
-| [2026-10-13](daily/2026-10-13.md) | Verbs and collocations | 40 | In progress |
+| [2026-10-13](daily/2026-10-13.md) | Verbs and collocations | 14 | In progress |
+| [2026-10-11](daily/2026-10-11.md) | Verbs and collocations | 40 | In progress |
 
 ## Status key
 
 - **In progress**: currently learning and memorizing
 - **Reviewed**: reviewed at least once
 - **Mastered**: can understand and use confidently
-
