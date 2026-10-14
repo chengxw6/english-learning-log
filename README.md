@@ -13,6 +13,7 @@ This public repository records my daily English study progress for my teacher to
 
 | Date | Focus | Items | Status |
 |---|---|---:|---|
+| [2026-10-14](daily/2026-10-14.md) | Verbs and collocations | 30 | In progress |
 | [2026-10-13](daily/2026-10-13.md) | Verbs and collocations | 14 | In progress |
 | [2026-10-11](daily/2026-10-11.md) | Verbs and collocations | 40 | In progress |
 
